@@ -10,9 +10,9 @@ Arduino ile Python arasında veri alışverişi yapmayı öğrenmek ve alınan v
   
 ## Yapım Aşaması
 
--LED’in uzun bacağını (anot) kısmını 220 ohm direnç üzerinden Arduino’nun 9 numaralı pinine bağladım
--LED'in kısa bacağını (katot) breadboard’un eksi hattına bağladım.
--LM35 sıcaklık sensörünü LED’in sıcaklığını algılayabilmesi için LED’in yanına yerleştirdim.
+- LED’in uzun bacağını (anot) kısmını 220 ohm direnç üzerinden Arduino’nun 9 numaralı pinine bağladım
+- LED'in kısa bacağını (katot) breadboard’un eksi hattına bağladım.
+- LM35 sıcaklık sensörünü LED’in sıcaklığını algılayabilmesi için LED’in yanına yerleştirdim.
   -  Sol bacak -> 5V
   -  Orta bacak ->A0
   -  Sağ bacak -> GND
@@ -33,12 +33,12 @@ Arduino ile Python arasında veri alışverişi yapmayı öğrenmek ve alınan v
 
 ## Terminal Çıktısı
 
--Aşağıda program çalıştırıldığında alınan terminal çıktısı ekran görüntüsü yer almaktadır:
+- Aşağıda program çalıştırıldığında alınan terminal çıktısı ekran görüntüsü yer almaktadır:
 
 ![Terminal Çıktısı](terminalciktisi.png)
 
 ## Günlük Kaydı 
--Aşağıda program çalıştırıldığında alınan günlük kaydı ekran görüntüsü yer almaktadır:
+- Aşağıda program çalıştırıldığında alınan günlük kaydı ekran görüntüsü yer almaktadır:
 
 ![Günlük Kaydı](gunluk.png)
 
