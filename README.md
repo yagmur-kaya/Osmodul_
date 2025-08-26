@@ -31,9 +31,13 @@ Arduino ile Python arasında veri alışverişi yapmayı öğrenmek ve alınan v
 ##Terminal Çıktısı
 
 -Aşağıda program çalıştırıldığında alınan terminal çıktısı ekran görüntüsü yer almaktadır:
+
 ![Terminal Çıktısı](terminalciktisi.png)
 
-##gunluk.txt İçeriği
+##Günlük Kaydı 
+-Aşağıda program çalıştırıldığında alınan günlük kaydı ekran görüntüsü yer almaktadır:
+
+![Günlük Kaydı](gunluk.png)
 
 
 
