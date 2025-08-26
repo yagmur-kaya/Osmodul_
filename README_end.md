@@ -14,14 +14,14 @@
 - Connected the short leg (cathode) of the LED to the ground rail of the breadboard.
 -Placed the LM35 temperature sensor next to the LED to measure its heat.
 
-  -Left leg -> 5V
-  -Middle leg -> A0
-  -Right leg -> GND
+  - Left leg -> 5V
+  - Middle leg -> A0
+  - Right leg -> GND
   
 - Potentiometer connections:
-  -Left leg -> 5V
-  -Middle leg -> A1
-  -Right leg -> GND
+  - Left leg -> 5V
+  - Middle leg -> A1
+  - Right leg -> GND
 
 - Connected the breadboard’s positive rail to Arduino’s 5V pin and the negative rail to GND using jumper wires.
 ## Implementation Stage
