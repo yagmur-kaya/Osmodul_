@@ -1,3 +1,4 @@
+[🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
 
 # Arduino - Python Entegrasyonu (OS Modülü Çalışması) 
 ## Projenin Amacı
