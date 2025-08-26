@@ -39,5 +39,7 @@ Arduino ile Python arasında veri alışverişi yapmayı öğrenmek ve alınan v
 
 ![Günlük Kaydı](gunluk.png)
 
+##Devre Şeması
+
 
 
