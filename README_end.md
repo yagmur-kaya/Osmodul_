@@ -4,7 +4,7 @@
 - The aim of this project was to learn how to establish data communication between Arduino and Python, and to store the received data in daily logs using Python's file/folder management.
 - This allowed me to read sensor data in real time and reinforce my knowledge by using the os, datetime, time, and pyserial libraries.
 
-##Technologies Used
+## Technologies Used
 - Python Libraries: os, datetime, time, pyserial
 - Hardware: Arduino Uno, Breadboard, LED, LM35 temperature sensor, Potentiometer, 220Ω resistor, jumper wires
 
