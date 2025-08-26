@@ -1,3 +1,5 @@
+[🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)
+
 # Arduino - Python Integration (OS Module Project)
 ## Project Purpose
 
